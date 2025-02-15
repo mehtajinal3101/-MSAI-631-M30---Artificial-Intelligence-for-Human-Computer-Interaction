@@ -1,5 +1,6 @@
 ﻿# EchoBot
 
+This EchoBot Project has been copied from WK05 Assignment and for WK06 assignment I am starting from where I left WK05 assignment work.
 Bot Framework v4 echo bot sample.
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
